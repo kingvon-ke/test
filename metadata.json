@@ -1,0 +1,5 @@
+{
+  "name": "Bera Host",
+  "description": "A fully functional PaaS platform replicating Heroku's UI and functionality with Render-style Git URL deployments.",
+  "requestFramePermissions": []
+}
